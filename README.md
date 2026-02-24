@@ -1,4 +1,4 @@
-Just a bunch of sql queries learned and practiced independently over some ecommerce data<br>
+Just a bunch(a lot) of sql queries learned and practiced independently over some ecommerce data<br>
 This repo doesnot contain complex queries, recursive queries, sub queries, advanced Joins, Conditional Functions (CASE) <br>
 
 ## This repo Contains the following topics- <br>
