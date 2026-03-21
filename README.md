@@ -6,7 +6,7 @@ This repo doesnot contain- recursive queries, sub queries, advanced Joins, Condi
 These tables Customers, employee, Orders, OrderDetails are added using SQL Query <br>
 
 ## This repo Contains the following topics- <br>
-## - Basic querying, strings functions and some arithmetic operations somewhere along the queries <br>
-## - Aggregate Functions <br>
-## - Windows Functions(complex queries) <br>
-## - Common Table Expression <br>
+- Basic querying, strings functions and some arithmetic operations somewhere along the queries <br>
+- Aggregate Functions <br>
+- Windows Functions(complex queries) <br>
+- Common Table Expression <br>
