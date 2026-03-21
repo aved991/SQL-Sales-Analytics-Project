@@ -1,6 +1,6 @@
 Just a bunch(a lot) of sql queries learned and practiced independently over some ecommerce data<br>
 This repo doesnot contain- recursive queries, sub queries, Conditional Functions (CASE) <br>
-## Prerequisite - SQL Query knowlegde, Microsoft SQL Server <br>
+## Prerequisite - SQL Query, Microsoft SQL Server <br>
 
 ## Tables- Superstore_Orders, Superstore_People, Superstore_Returns, Customers, employee, Orders, OrderDetails
 These tables Customers, employee, Orders, OrderDetails are added using SQL Query <br>
